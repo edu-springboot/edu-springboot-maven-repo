@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.nhnent.dooray.client</groupId>
+  <artifactId>dooray-hook-client</artifactId>
+  <versioning>
+    <release>1.1.0.RELEASE</release>
+    <versions>
+      <version>1.1.0.RELEASE</version>
+    </versions>
+    <lastUpdated>20190411110308</lastUpdated>
+  </versioning>
+</metadata>
