@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>kr.co.manty.mail.imap</groupId>
+  <artifactId>bodystructurebuilder</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20191124143005</lastUpdated>
+  </versioning>
+</metadata>
